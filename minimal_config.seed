@@ -71,6 +71,8 @@ CONFIG_ARIA2_OPENSSL=y
 CONFIG_ARIA2_NOXML=y
 CONFIG_ARIA2_BITTORRENT=y
 CONFIG_ARIA2_WEBSOCKET=y
+CONFIG_PACKAGE_kmod-fuse=y
+CONFIG_PACKAGE_ntfs-3g=y
 # CONFIG_PACKAGE_luci-app-passwall_INCLUDE_https_dns_proxy is not set
 # CONFIG_PACKAGE_luci-app-accesscontrol is not set
 # CONFIG_PACKAGE_luci-app-nlbwmon is not set
